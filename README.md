@@ -7,5 +7,5 @@ Common CTF Tools
 ### WebShell
 
 | Tools | WebSite |
-+-----------------+
+|---|---|
 | Behinder | https://github.com/rebeyond/Behinder |
